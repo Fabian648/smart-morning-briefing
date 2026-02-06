@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# IDE/Editor
+*.vscode/
+*.idea/
+*.DS_Store
